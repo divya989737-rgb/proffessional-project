@@ -1,0 +1,17 @@
+{
+  "name": "project-divya",
+  "version": "1.0.0",
+  "description": "a backend chai aor code channel - youtube",
+  "keywords": [
+    "jaascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "divya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
